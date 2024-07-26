@@ -42,7 +42,7 @@ Kullanıcı kendi seçtiği .gif dosyasının köşelerini 1 ile 238 arasında b
 | **Orjinal GIF**                                                                          | **Corner Radius 30**                                                                     |
 |     ------------------------------------------------------------------------------       |     ------------------------------------------------------------------------------       |
 | ![Ekran Görüntüsü 3](./Readme%20Resources/Gif'ler/orjinal.gif)                           | ![Ekran Görüntüsü 2](./Readme%20Resources/Gif'ler/orjinal_cr30.gif)                      |
-| **Corner Radius 60**                                                                     | **Corner Radius 100**                                                                    |
+|  <p align="center">**Corner Radius 60**</p>                                              | <p align="center">**Corner Radius 100**</p>                                              |
 | ![Ekran Görüntüsü 3](./Readme%20Resources/Gif'ler/orjinal_cr60.gif)                      | ![Ekran Görüntüsü 2](./Readme%20Resources/Gif'ler/orjinal_cr100.gif)                     |
 
 
