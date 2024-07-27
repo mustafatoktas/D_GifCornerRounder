@@ -30,6 +30,9 @@ Kullanıcı kendi seçtiği .gif dosyasının köşelerini 1 ile 238 arasında b
 
 ## Ekran Görüntüleri
 
+Ekran görüntüleri uygulamanın v1.0.0 sürümünden alınmıştır. Yeni sürümlerde arayüz değiştirilmiş, uygulama genelinde
+iyileştirme ve geliştirme yapılmış olabilir.
+
 | ![Ekran Görüntüsü 1](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%201.png) | ![Ekran Görüntüsü 2](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%202.png) |
 |     ------------------------------------------------------------------------------       |     ------------------------------------------------------------------------------       |
 | ![Ekran Görüntüsü 3](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%203.png) |                                                                                          |
@@ -42,7 +45,7 @@ Kullanıcı kendi seçtiği .gif dosyasının köşelerini 1 ile 238 arasında b
 | **Orjinal GIF**                                                                          | **Corner Radius 30**                                                                     |
 |     ------------------------------------------------------------------------------       |     ------------------------------------------------------------------------------       |
 | ![Ekran Görüntüsü 3](./Readme%20Resources/Gif'ler/orjinal.gif)                           | ![Ekran Görüntüsü 2](./Readme%20Resources/Gif'ler/orjinal_cr30.gif)                      |
-|  <p align="center">**Corner Radius 60**</p>                                              | <p align="center">**Corner Radius 100**</p>                                              |
+| <p align="center">**Corner Radius 60**</p>                                               | <p align="center">**Corner Radius 100**</p>                                              |
 | ![Ekran Görüntüsü 3](./Readme%20Resources/Gif'ler/orjinal_cr60.gif)                      | ![Ekran Görüntüsü 2](./Readme%20Resources/Gif'ler/orjinal_cr100.gif)                     |
 
 
@@ -68,7 +71,7 @@ Kullanıcı kendi seçtiği .gif dosyasının köşelerini 1 ile 238 arasında b
   komutunu çalıştırabilirsiniz.
   
 - [Releases](https://github.com/mustafatoktas/D_GifCornerRounder/releases) sayfasına gidip
-uygulamanın en güncel sürümünü kendi bilgisayarınıza indirip portable olarak kullanabilirsiniz.
+uygulamanın en güncel sürümünü bilgisayarınıza indirip portable olarak kullanabilirsiniz.
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
