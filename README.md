@@ -30,11 +30,10 @@ Kullanıcı kendi seçtiği .gif dosyasının köşelerini 1 ile 238 arasında b
 
 ## Ekran Görüntüleri
 
-Ekran görüntüleri uygulamanın v1.0.0 sürümünden alınmıştır. Yeni sürümlerde arayüz değiştirilmiş, uygulama genelinde
-iyileştirme ve geliştirme yapılmış olabilir.
+Ekran görüntüleri uygulamanın v1.0.0 sürümünden alınmıştır. Yeni sürümlerde arayüz tamamen yada kısmi olarak değiştirilmiş olabilir.
 
 | ![Ekran Görüntüsü 1](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%201.png) | ![Ekran Görüntüsü 2](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%202.png) |
-|     ------------------------------------------------------------------------------       |     ------------------------------------------------------------------------------       |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | ![Ekran Görüntüsü 3](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%203.png) |                                                                                          |
 
 
@@ -42,11 +41,11 @@ iyileştirme ve geliştirme yapılmış olabilir.
 
 ## Çıktı Örnekleri
 
-| **Orjinal GIF**                                                                          | **Corner Radius 30**                                                                     |
-|     ------------------------------------------------------------------------------       |     ------------------------------------------------------------------------------       |
-| ![Ekran Görüntüsü 3](./Readme%20Resources/Gif'ler/orjinal.gif)                           | ![Ekran Görüntüsü 2](./Readme%20Resources/Gif'ler/orjinal_cr30.gif)                      |
-| <p align="center">**Corner Radius 60**</p>                                               | <p align="center">**Corner Radius 100**</p>                                              |
-| ![Ekran Görüntüsü 3](./Readme%20Resources/Gif'ler/orjinal_cr60.gif)                      | ![Ekran Görüntüsü 2](./Readme%20Resources/Gif'ler/orjinal_cr100.gif)                     |
+| **Orjinal GIF**                                                              | **Corner Radius 30**                                                           |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| ![Orjinal Gif](./Readme%20Resources/Gif'ler/orjinal.gif)                     | ![Çıktı 1 - Corner Radius 30](./Readme%20Resources/Gif'ler/orjinal_cr30.gif)   |
+| <p align="center">**Corner Radius 60**</p>                                   | <p align="center">**Corner Radius 100**</p>                                    |
+| ![Çıktı 2 - Corner Radius 60](./Readme%20Resources/Gif'ler/orjinal_cr60.gif) | ![Çıktı 3 - Corner Radius 100](./Readme%20Resources/Gif'ler/orjinal_cr100.gif) |
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
