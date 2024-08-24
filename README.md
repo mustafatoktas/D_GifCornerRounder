@@ -6,9 +6,9 @@
 
 ## **İçindekiler**
 
-- [Uygulama Hakkında](#ℹ️-uygulama-hakkında)
+- [Uygulama Hakkında](#uygulama-hakkında)
 - [Ekran Görüntüleri](#ekran-görüntüleri)
-- [Çıktı Örnekleri](#✨-çıktı-örnekleri)
+- [Çıktı Örnekleri](#çıktı-örnekleri)
 - [Kullanılan Teknoloji ve Kütüphaneler](#kullanılan-teknoloji-ve-kütüphaneler)
 - [Uygulamayı Çalıştırma](#uygulamayı-çalıştırma)
 - [Lisans](#lisans)
@@ -17,7 +17,7 @@
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-## ℹ️ Uygulama Hakkında
+## Uygulama Hakkında
 
 | <p align="center" style="font-weight: bold;">Desteklenen Platform</p> | <p align="center" style="font-weight: normal;">Windows Masaüstü</p> |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------- |
@@ -29,7 +29,7 @@ Kullanıcı kendi seçtiği .gif dosyasının köşelerini 1 ile 238 arasında b
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-## 🖼️ Ekran Görüntüleri
+## Ekran Görüntüleri
 
 Ekran görüntüleri uygulamanın `v1.0.0` sürümünden alınmıştır. Yeni sürümlerde arayüz tamamen yada kısmi olarak değiştirilmiş olabilir.
 
@@ -40,7 +40,7 @@ Ekran görüntüleri uygulamanın `v1.0.0` sürümünden alınmıştır. Yeni s�
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-## ✨ Çıktı Örnekleri
+## Çıktı Örnekleri
 
 | **Orijinal GIF**                                          | **Corner Radius 30**                                                         | **Corner Radius 100**                                                          |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -49,7 +49,7 @@ Ekran görüntüleri uygulamanın `v1.0.0` sürümünden alınmıştır. Yeni s�
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-## 🛠️ Kullanılan Teknoloji ve Kütüphaneler
+## Kullanılan Teknoloji ve Kütüphaneler
 
 - `.NET 8.0`
 - `Magick.NET.Core`
@@ -59,7 +59,7 @@ Ekran görüntüleri uygulamanın `v1.0.0` sürümünden alınmıştır. Yeni s�
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-## 🚀 Uygulamayı Çalıştırma
+## Uygulamayı Çalıştırma
 
 - Uygulamanın proje dosyasını kendi bilgisayarınıza indirmek, kodları incelemek ve
   [lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html) kapsamında geliştirme
@@ -83,7 +83,7 @@ uygulamanın en güncel sürümünü bilgisayarınıza indirip portable olarak k
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-## 📜 Lisans
+## Lisans
 
 ```
 Copyright 2024 Mustafa TOKTAŞ
@@ -104,7 +104,7 @@ limitations under the License.
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-## 💬 İletişim
+## İletişim
 
 <a href="mailto:info@mustafatoktas.com"              target="_blank"> <img src="./Readme Resources/İletişim/Mail.png"     alt="Mail"     width="64"/> </a>
 <a href="https://t.me/mustafatoktas00"               target="_blank"> <img src="./Readme Resources/İletişim/Telegram.png" alt="Telegram" width="64"/> </a>
