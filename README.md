@@ -1,18 +1,18 @@
 <h1 align="center">GIF Corner Rounder</h1>
 
 <div align=center>
-  <img src="./Readme Resources/Gif Corner Rounder Logo.png" alt="Logo" width="130"/>
+  <img src="./Readme Resources/Gif Corner Rounder Logo.png" alt="Logo" width="120"/>
 </div>
 
 ## **İçindekiler**
 
 - [Uygulama Hakkında](#ℹ️-uygulama-hakkında)
-- [Ekran Görüntüleri](#🖼️-ekran-görüntüleri)
+- [Ekran Görüntüleri](#ekran-görüntüleri)
 - [Çıktı Örnekleri](#✨-çıktı-örnekleri)
-- [Kullanılan Teknoloji ve Kütüphaneler](#🛠️-kullanılan-teknoloji-ve-kütüphaneler)
-- [Uygulamayı Çalıştırma](#🚀-uygulamayı-çalıştırma)
-- [Lisans](#📜-lisans)
-- [İletişim](#💬-i̇letişim)
+- [Kullanılan Teknoloji ve Kütüphaneler](#kullanılan-teknoloji-ve-kütüphaneler)
+- [Uygulamayı Çalıştırma](#uygulamayı-çalıştırma)
+- [Lisans](#lisans)
+- [İletişim](#i̇letişim)
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
