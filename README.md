@@ -1,6 +1,6 @@
 <h1 align="center">GIF Corner Rounder</h1>
 
-<div align=center>
+<div align="center">
   <img src="./Readme Resources/Gif Corner Rounder Logo.png" alt="Logo" width="120"/>
 </div>
 
@@ -19,10 +19,18 @@
 
 ## Uygulama Hakkında
 
-| <p align="center" style="font-weight: bold;">Desteklenen Platform</p> | <p align="center" style="font-weight: normal;">Windows Masaüstü</p> |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------- |
+<table>
+  <tr>
+    <th style="text-align: left; font-weight: bold;">İşletim Sistemi</th>
+    <td style="text-align: left;">Windows</td>
+  </tr>
+  <tr>
+    <th style="text-align: left; font-weight: bold;">Uygulama Türü</th>
+    <td style="text-align: left;">Masaüstü</td>
+  </tr>
+</table>
 
-Bu Windows masaüstü uygulaması .gif uzantılı dosyaların köşelerini yuvarlatma işlemini gerçekleştirir.
+Bu uygulama .gif uzantılı dosyaların köşelerini yuvarlatma işlemini gerçekleştirir.
 Kullanıcı kendi seçtiği .gif dosyasının köşelerini 1 ile 238 arasında bir değer belirleyerek yuvarlatabilir.
 İşlem asenkron bir şekilde yürütüldüğünden arayüz herhangi bir şekilde kilitlenmez ve kesintisiz bir deneyim sunar.
 
@@ -42,7 +50,7 @@ Ekran görüntüleri uygulamanın `v1.0.0` sürümünden alınmıştır. Yeni s�
 
 ## Çıktı Örnekleri
 
-| **Orijinal GIF**                                          | **Corner Radius 30**                                                         | **Corner Radius 100**                                                          |
+| **Orijinal GIF**                                         | **Corner Radius 30**                                                         | **Corner Radius 100**                                                          |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | ![Orjinal Gif](./Readme%20Resources/Gif'ler/orjinal.gif) | ![Çıktı 1 - Corner Radius 30](./Readme%20Resources/Gif'ler/orjinal_cr30.gif) | ![Çıktı 2 - Corner Radius 100](./Readme%20Resources/Gif'ler/orjinal_cr100.gif) |
 
@@ -55,6 +63,8 @@ Ekran görüntüleri uygulamanın `v1.0.0` sürümünden alınmıştır. Yeni s�
 - `Magick.NET.Core`
 - `Newtonsoft.Json`
 - `GitHub API`
+
+[build.gradle.kts](./build.gradle.kts)
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
@@ -71,14 +81,14 @@ Ekran görüntüleri uygulamanın `v1.0.0` sürümünden alınmıştır. Yeni s�
   komutunu çalıştırabilirsiniz.
   
 - [Releases](https://github.com/mustafatoktas/D_GifCornerRounder/releases) sayfasına gidip
-uygulamanın en güncel sürümünü bilgisayarınıza indirip portable olarak kullanabilirsiniz.
+  uygulamanın en güncel sürümünü bilgisayarınıza indirip portable olarak kullanabilirsiniz.
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=39b4x5dw7v2hsa8&show_repo_name=1&show_date=1&show_brand=0" alt="Repo Visitor Counter"/> </a>
 
-<a href="buymeacoffee.com/mustafatoktas" target="_blank"> <img src="./Readme Resources/İletişim/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/> </a>
+<a href="https://buymeacoffee.com/mustafatoktas" target="_blank"> <img src="./Readme Resources/İletişim/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/> </a>
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
