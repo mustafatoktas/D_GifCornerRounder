@@ -64,8 +64,6 @@ Ekran görüntüleri uygulamanın `v1.0.0` sürümünden alınmıştır. Yeni s�
 - `Newtonsoft.Json`
 - `GitHub API`
 
-[build.gradle.kts](./build.gradle.kts)
-
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
