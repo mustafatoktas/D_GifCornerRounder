@@ -137,7 +137,7 @@ Contribution rules and steps for those who want to contribute to the project are
 <br>
   
 <div align="center">
-  <a href="https://buymeacoffee.com/mustafatoktas" target="_blank"><img src="../../Readme Resources/Communication/Buy Me a Coffee.pngg" alt="Buy Me a Coffee" height="64"/></a>
+  <a href="https://buymeacoffee.com/mustafatoktas" target="_blank"><img src="../../Readme Resources/Communication/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/></a>
 </div>
 
 
