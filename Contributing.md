@@ -90,5 +90,5 @@ Projeye gösterdiğiniz ilgi ve katkılarınız için teşekkür ederim. Her kat
 <br>
 
 <p align="center">
-  <a href="#katkı-rehberi"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
+  <a href="#katkı-rehberi"><img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
 </p>

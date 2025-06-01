@@ -7,7 +7,7 @@ GIF Corner Rounder<a name="readme-top"></a>
 </div>
 
 <div align="right">
-  <a href="https://github.com/mustafatoktas/D_GifCornerRounder" target="_blank">Türkçe</a> | English
+  <a href="https://github.com/mustafatoktas/D_GifCornerRounder">Türkçe</a> | English
 </div>
 
 ## Contents  
@@ -131,13 +131,13 @@ Contribution rules and steps for those who want to contribute to the project are
 ![-----------------------------------------------------](../../Readme%20Resources/Line.png)
 
 <div align="center">
-  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"><img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=39b4x5dw7v2hsa8&show_repo_name=1&show_date=1&show_brand=0&txt_color=209,215,224&bg_color=45,52,58" alt="Repo Visitor Counter"/></a>
+  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI"><img src="https://toktasoft.com/api/repo-visitor-counter?repo=39b4x5dw7v2hsa8&show_repo_name=1&show_date=1&show_brand=0&txt_color=209,215,224&bg_color=45,52,58" alt="Repo Visitor Counter"/></a>
 </div>
 
 <br>
   
 <div align="center">
-  <a href="https://buymeacoffee.com/mustafatoktas" target="_blank"><img src="../../Readme Resources/Communication/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/></a>
+  <a href="https://buymeacoffee.com/mustafatoktas"><img src="../../Readme Resources/Communication/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/></a>
 </div>
 
 
@@ -166,9 +166,9 @@ limitations under the License.
 
 ## Contact
 
-<a href="mailto:info@mustafatoktas.com"              target="_blank"><img src="../../Readme Resources/Communication/Mail.png"     alt="Mail"     width="64"/></a>
-<a href="https://t.me/mustafatoktas00"               target="_blank"><img src="../../Readme Resources/Communication/Telegram.png" alt="Telegram" width="64"/></a>
-<a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"><img src="../../Readme Resources/Communication/LinkedIn.png" alt="LinkedIn" width="64"/></a>
+<a href="mailto:info@mustafatoktas.com"             ><img src="../../Readme Resources/Communication/Mail.png"     alt="Mail"     width="64"/></a>
+<a href="https://t.me/mustafatoktas00"              ><img src="../../Readme Resources/Communication/Telegram.png" alt="Telegram" width="64"/></a>
+<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../Readme Resources/Communication/LinkedIn.png" alt="LinkedIn" width="64"/></a>
 
 <p align="center">
   <a href="#readme-top"><img src="../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
