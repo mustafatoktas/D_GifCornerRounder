@@ -4,7 +4,7 @@ Projeye ilginiz için teşekkürler🥳 Bu rehber, projeye nasıl katkıda bulun
 konusunda size yol gösterecektir.
 
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Başlarken
 
@@ -15,7 +15,7 @@ Projeye katkıda bulunmadan önce aşağıdaki adımları takip edin:
 3. Yeni bir `branch` oluşturarak değişikliklerinizi bu `branch` üzerinde yapın.
 
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Katkı Süreci
 
@@ -26,7 +26,7 @@ Katkıda bulunurken aşağıdaki adımları izleyin:
 3. Açıklayıcı bir `pull request` oluşturarak değişikliklerinizi paylaşın.
 
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Dikkat Edilmesi Gerekenler
 
@@ -49,7 +49,7 @@ Projeye katkı yaparken aşağıdaki noktalara dikkat etmek iş birliğini ve ko
   Yaptığınız değişiklikler belgeleri etkiliyorsa ilgili güncellemeleri de eklemeyi unutmayın.
 
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Geri Bildirim
 
@@ -62,7 +62,7 @@ Projeye katkı yaparken aşağıdaki noktalara dikkat etmek iş birliğini ve ko
   Bu sayede değişiklikleriniz daha hızlı değerlendirilebilir.
 
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Katkıda Bulunmak İçin Fikirler
 
@@ -73,7 +73,7 @@ Katkıda bulunmak istiyor ancak nereden başlayacağınızı bilmiyorsanız şu 
 - Performans optimizasyonları yapmak
 
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Sorunlar ve Pull Request'ler
 
@@ -81,7 +81,7 @@ Projeye katkıda bulunmadan önce [mevcut issues'ları](https://github.com/musta
 [açık pull request'leri](https://github.com/mustafatoktas/D_GifCornerRounder/pulls) inceleyin. Benzer bir konu üzerinde çalışılıyor olabilir.
 
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Teşekkürler!
 
@@ -89,6 +89,6 @@ Projeye gösterdiğiniz ilgi ve katkılarınız için teşekkür ederim. Her kat
 
 <br>
 
-<p align="center">
+<div align="center">
   <a href="#katkı-rehberi"><img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
-</p>
+</div>
