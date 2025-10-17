@@ -19,7 +19,7 @@ public class VersionChecker
             string latestVersion = latestRelease["tag_name"].ToString();
             string downloadUrl = latestRelease["html_url"].ToString();
 
-            string currentVersion = "v1.0.0"; // mevcut sürüm
+            string currentVersion = "v1.0.1"; // mevcut sürüm
 
             if (string.Compare(latestVersion, currentVersion) > 0)
             {

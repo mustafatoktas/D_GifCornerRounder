@@ -1,4 +1,5 @@
 using ImageMagick;
+using ImageMagick.Drawing;
 using System.Diagnostics;
 
 namespace GIF_Corner_Rounder

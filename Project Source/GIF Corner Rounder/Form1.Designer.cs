@@ -124,29 +124,29 @@
             // checkForUpdatesToolStripMenuItem
             // 
             checkForUpdatesToolStripMenuItem.Name = "checkForUpdatesToolStripMenuItem";
-            checkForUpdatesToolStripMenuItem.Size = new Size(173, 22);
+            checkForUpdatesToolStripMenuItem.Size = new Size(180, 22);
             checkForUpdatesToolStripMenuItem.Text = "Check For Updates";
             checkForUpdatesToolStripMenuItem.Click += checkForUpdatesToolStripMenuItem_Click;
             // 
             // gitHubRepositoryToolStripMenuItem
             // 
             gitHubRepositoryToolStripMenuItem.Name = "gitHubRepositoryToolStripMenuItem";
-            gitHubRepositoryToolStripMenuItem.Size = new Size(173, 22);
+            gitHubRepositoryToolStripMenuItem.Size = new Size(180, 22);
             gitHubRepositoryToolStripMenuItem.Text = "GitHub Repository";
             gitHubRepositoryToolStripMenuItem.Click += gitHubRepositoryToolStripMenuItem_Click;
             // 
             // gPL30LicenseToolStripMenuItem
             // 
             gPL30LicenseToolStripMenuItem.Name = "gPL30LicenseToolStripMenuItem";
-            gPL30LicenseToolStripMenuItem.Size = new Size(173, 22);
+            gPL30LicenseToolStripMenuItem.Size = new Size(180, 22);
             gPL30LicenseToolStripMenuItem.Text = "GPL-3.0 License";
             gPL30LicenseToolStripMenuItem.Click += gPL30LicenseToolStripMenuItem_Click;
             // 
             // v100ToolStripMenuItem
             // 
             v100ToolStripMenuItem.Name = "v100ToolStripMenuItem";
-            v100ToolStripMenuItem.Size = new Size(173, 22);
-            v100ToolStripMenuItem.Text = "v1.0.0";
+            v100ToolStripMenuItem.Size = new Size(180, 22);
+            v100ToolStripMenuItem.Text = "v1.0.1";
             // 
             // lblSelectGifFile
             // 

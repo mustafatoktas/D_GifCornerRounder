@@ -24,9 +24,9 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Magick.NET-Q8-AnyCPU" Version="13.10.0" />
-		<PackageReference Include="Magick.NET.Core" Version="13.10.0" />
-		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+		<PackageReference Include="Magick.NET-Q8-AnyCPU" Version="14.9.0" />
+		<PackageReference Include="Magick.NET.Core" Version="14.9.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
 	</ItemGroup>
 
 	<ItemGroup>
